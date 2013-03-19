@@ -1,6 +1,6 @@
 """
 Author: Aiyesha Ma & Marcos Sainz
-IPython Ver.: 0.13.1
+Tested on IPython version 0.13.1
 
 This SQL cell magic allows you to open multiple connections to several
 databases and then reference the connections by name inside IPython

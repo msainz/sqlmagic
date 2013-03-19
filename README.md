@@ -27,3 +27,4 @@ And then reference and use the connection via cell magic:
 %%sql connection_name
 select * from foo
 ```
+
