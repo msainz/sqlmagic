@@ -1,6 +1,5 @@
 """
 Author: Aiyesha Ma & Marcos Sainz
-Date: March 18, 2013
 IPython Ver.: 0.13.1
 
 This SQL cell magic allows you to open multiple connections to several
